@@ -150,7 +150,7 @@ body {
 }
 
 .hi__list li {
-  background: url("./img/check-icon.png") 0 1px no-repeat;
+  background: url(../img/check-icon.png) 0 1px no-repeat;
   padding: 0 0 0 30px;
   margin: 0 0 15px 0;
 }
